@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>FinalExamWork</name>
+=======
+            <name>TheTreeApplication</name>
+>>>>>>> a576ae7a1281732af6bd65acf83369f563bafbd9
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
